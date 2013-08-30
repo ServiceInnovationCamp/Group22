@@ -1,9 +1,7 @@
 Team Name: AhobanTech
 =======
 
-Proposed Application Name: Shipro Sohayika
-Proposal Date: 30th August, 2013
-Proposed On: Google Developers Group Dhaka DevFest 2013
+Proposed Application Name: Shipro Sohayika\nProposal Date: 30th August, 2013\nProposed On: Google Developers Group Dhaka DevFest 2013\n
 
-Features:
-* Location-wise Institution Office and Institution Information
+Features:\n
+* Location-wise Institution Office and Institution Information\n
